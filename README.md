@@ -1,1 +1,1 @@
-# loginpage
+# Sample login page
